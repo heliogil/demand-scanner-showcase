@@ -1,0 +1,28 @@
+{
+  "services": [
+    {
+      "id": "freelance_agent_simple",
+      "name": "Simple AI Agent (1 integration)",
+      "price": "USD 1.5k",
+      "delivery": "1 week",
+      "category": "freelance_dev",
+      "keywords": ["agent", "chatbot", "automation", "bot", "whatsapp", "telegram", "slack"]
+    },
+    {
+      "id": "freelance_agent_complex",
+      "name": "Complex AI Agent (multi-integration)",
+      "price": "USD 3k–5k",
+      "delivery": "2–3 weeks",
+      "category": "freelance_dev",
+      "keywords": ["workflow automation", "n8n", "make", "zapier", "api integration", "crm"]
+    },
+    {
+      "id": "venture_studio_b2b",
+      "name": "Venture Studio B2B Sprint",
+      "price": "USD 8k–15k",
+      "delivery": "4–6 weeks",
+      "category": "b2b",
+      "keywords": ["saas build", "mvp", "startup", "product development", "ai product"]
+    }
+  ]
+}
